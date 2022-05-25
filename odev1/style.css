@@ -8,7 +8,7 @@
   */
 }
 body {
-    display: flex; /* Boyutları bilinmeyen-dinamik alanları daha kolay yönetmek için W3C bize al abicim sana flex, istediğin gibi alanını yönet demiş */
+    display: flex; /*  */
     align-items: center; /* Nesneler ortalı bir şekilde dikey olarak sıralanırlar. */
     justify-content: center; /* Flex özelliğine sahip olan bir kapsayıcının yatay eksende nasıl hizalanacağını ayarlar */
     margin: 0 auto;
