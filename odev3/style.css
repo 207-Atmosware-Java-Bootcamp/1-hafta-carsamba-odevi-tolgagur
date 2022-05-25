@@ -1,10 +1,8 @@
 body {
     display: flex;
     align-items: center;
-    justify-content: center;
-    margin: 0 auto;
-    height: 100vh;
-    background-color: #f1f1f1;
+    justify-content: center; /***** ortala *****/
+    background-color: #ffffff;
     color: white;
   }
 .cerceve {
